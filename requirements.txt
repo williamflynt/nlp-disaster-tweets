@@ -1,0 +1,12 @@
+gensim
+jupyter
+matplotlib
+nltk
+numpy
+optuna
+pandas
+requests
+scikit-learn
+scipy==1.12.*
+seaborn
+torch
